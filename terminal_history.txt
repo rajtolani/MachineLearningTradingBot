@@ -1,0 +1,19 @@
+    1  history
+    2  conda activate dev
+    3  cd c:/RajBo*/Challenge-14
+    4  git config --global user.name Raj Tolani
+    5  git config --global user.email admin@tolanicollection.com
+    6  git config --list
+    7  git clone https://github.com/rajtolani/MachineLearningTradingBot.git
+    8  cd Ma*
+    9  git status
+   10  git add .
+   11  git commit -m "This version has the original starter files provided by the Fintech BootCamp Staff."
+   12  git push
+   13  git status
+   14  git status
+   15  git add .
+   16  git commit -m "Submitting the final notebook and all the plot files"
+   17  git push
+   18  git status
+   19  history > terminal_history.txt
